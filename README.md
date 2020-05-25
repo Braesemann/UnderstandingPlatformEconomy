@@ -11,10 +11,6 @@ Code and data accompanying the paper 'Understanding the Platform Economy: Signal
 
 
 ## Folder Structure and Disclaimer
-Since some data has been crawled with the help of commercial tools, neither all data nor all code to reproduce the entire work is included. The provided code allows crawling textual components from web pages, analysing sentiment and tagging the following keywords:
-
-<br> <br> 
-
 ```
 .
 +-- code
