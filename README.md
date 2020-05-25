@@ -18,16 +18,11 @@ Since some data has been crawled with the help of commercial tools, neither all 
 ```
 .
 +-- code
-|   +-- Crawling
-    |   +-- 1_Crawler.ipynb (code for crawling web pages)
-    |   +-- 2_CleanUpEdges.ipynb (cleaning the crawled network data)
-    +-- Analysis
-    |   +-- 3_ContentAnalysis.ipynb (code for analysing web page content after cleaned up)
-    |   +-- 4_NetworkAnalysisPlots.ipynb (visualizing and analysing networks)
-    |   +-- 5_AutomotiveFigures.R (code for reproducing figures)
+|   +-- __script__hicss - public.R (code to analyse data and produce figures)
 +-- data
-|   +-- car_sales.csv (data of global car sales)
-|   +-- node_data.csv (tagged web page data including the features "sentiment", "digital trend"...)
+|   +-- data_platforms.csv (data collected from platforms)
+|   +-- data_survey.csv (survey results)
+|   +-- socialness.csv (categorisation of platforms by the degree of social interaction)
 +-- readme.md
 ```
 
