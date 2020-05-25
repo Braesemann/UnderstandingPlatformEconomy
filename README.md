@@ -1,22 +1,18 @@
-# Mining the Automotive Industry: <br> A Network Analysis of Corporate Positioning and Technological Trends
+# Understanding the Platform Economy: <br> Signals, Trust, and Social Interaction
 
-Code and data accompanying the work to produce figures of the paper 'Mining the Automotive Industry – A Network Analysis of Corporate Positioning and Technological Trends' (**link to paper will follow**). 
+Code and data accompanying the paper 'Understanding the Platform Economy: Signals, Trust, and Social Interaction' (**https://scholarspace.manoa.hawaii.edu/bitstream/10125/64373/0508.pdf**). 
 
 ## Description
-**Last modified:** September 2019 <br>
-**Authors:** Niklas Stoehr, Fabian Braesemann, Shi Zhou <br>
+**Last modified:** May 2020 <br>
+**Authors:** Maik Hesse, Fabian Braesemann, David Dann, Timm Teubner <br>
 **Licence:** CC-BY (4.0)
 
-**Abstract:** The digital transformation is driving revolutionary innovations and new market entrants threaten established sectors of the economy such as the automotive industry. Following the need for monitoring shifting industries, we present a network-centred analysis of car manufacturer web pages. Solely exploiting publicly-available information, we construct large networks from web pages and hyperlinks. The network properties disclose the internal corporate positioning of the three largest automotive manufacturers, Toyota, Volkswagen and Hyundai with respect to innovative trends and their international outlook. We tag web pages concerned with topics like e-mobility & environment or autonomous driving, and investigate their relevance in the network. Toyota and Hyundai are concerned with e-mobility throughout large parts of their web page network; Volkswagen devotes more specialized sections to it, but reveals a strong focus on autonomous driving. Sentiment analysis on individual web pages uncovers a relationship between page linking and use of positive language, particularly with respect to innovative trends. Web pages of the same country domain form clusters of different size in the network that reveal strong correlations with sales market orientation. Our approach is highly transparent, reproducible and data driven, and could be used to gain complementary insights into innovative strategies of firms and competitive landscapes. <br>
-**Keywords:** Automotive Industry, Network Analysis, Complex Networks, Digitization, Web Page Mining, Competition
+**Abstract:** Two-sided markets are gaining increasing importance. Examples include accommodation and car sharing, resale, shared mobility, crowd work, and many more. As these businesses rely on transactions among users, central aspects to virtually all platforms are the creation and maintenance of trust. While research has considered effects of trust-building on diverse platforms in isolation, the overall platform landscape has received much less attention. However, cross-platform comparison is important since platforms vary in their degree of social interaction, which, as we demonstrate in this paper, determines the adequacy and use of different trust mechanisms. Based on actual market data, we examine the mechanisms platforms employ and how frequent users rely on them. We contrast this view against survey data on users’ perceptions of the context-specific importance of these trust-building tools. Our findings provide robust evidence for our reasoning on the relation between platforms’ degree of social interaction and the associated expressive trust cues. <br>
 
 
 ## Folder Structure and Disclaimer
 Since some data has been crawled with the help of commercial tools, neither all data nor all code to reproduce the entire work is included. The provided code allows crawling textual components from web pages, analysing sentiment and tagging the following keywords:
 
-**E-mobility & environment:** e-mobility, battery, environment, biological, eco, ecological, electric, hybrid, environment, environmental-friendly;<br> 
-**Connectivity & shared mobility:** connectivity, shared, mobility, sharing, interconnectedness, cloud, cloud computing, wifi, 5G;<br> 
-**Autonomous driving & artificial intelligence:** autonomous, self-driving, ai, machine learning, artificial intelligence, intelligent, neural network, algorithm.
 <br> <br> 
 
 ```
