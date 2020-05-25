@@ -36,15 +36,13 @@ Please cite as follows
 
 ```
 @article{
-stoehr2019mining,
-title={Mining Automotive the Industry – A Network Analysis of Corporate Positioning and Technological Trends},
-author={Niklas Stoehr, Fabian Braesemann and Shi Zhou},
-booktitle={under review at Complex Networks 2019},
-year={2019},
-url={www.github.com/Braesemann/MiningAutomotiveIndustry},
+hesse2020understanding,
+title={Understanding the Platform Economy: Signals, Trust, and Social Interaction},
+author={Maik Hesse, Fabian Braesemann, David Dann, and Timm Teubner},
+booktitle={HICSS 2020 Proceedings},
+year={2020},
+pages = {1-10},
+url={https://scholarspace.manoa.hawaii.edu/bitstream/10125/64373/0508.pdf},
 }
 ```
-
-
-
 
